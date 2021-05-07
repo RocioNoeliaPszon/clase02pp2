@@ -10,6 +10,6 @@ if ($edad <= 18)
 }
 else 
 {
-	echo $edad. "años, usted es mayor";
+	echo $edad. "años, usted es mayor de edad";
 }
 ?>
