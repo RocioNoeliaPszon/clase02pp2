@@ -14,10 +14,10 @@ function Dividir ($N1, $N2) {
 function returnIn0 ($Numero) {
 
 	if ($Numero == 0) {
-		return 1;
+		return true;
 	}
 	else {
-		return 0;
+		return false;
 	}
 }
 
@@ -32,6 +32,7 @@ function Calcular ($N1, $N2, $Operador){
 		} else {
 			echo "No puede dividirse por 0";
 		}
+		break;
 		}
 	}
 	function Resultado ($Resultado) {
