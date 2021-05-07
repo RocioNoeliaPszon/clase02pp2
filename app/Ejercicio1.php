@@ -6,7 +6,7 @@ echo "<br>";
 
 if ($edad <= 18)
 {
-	echo $edad. "años, usted es menor";
+	echo $edad. "años, usted es menor de edad";
 }
 else 
 {
