@@ -33,6 +33,9 @@ function Calcular ($N1, $N2, $Operador){
 			echo "No puede dividirse por 0";
 		}
 		break;
+		case '$':
+		echo "Es válido";
+		break;
 		}
 	}
 	function Resultado ($Resultado) {
