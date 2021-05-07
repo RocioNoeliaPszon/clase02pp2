@@ -1,4 +1,4 @@
 	<?php
-	echo "<h1>Bienvenidos</h1>";
+	echo "<h1>Hola Heroku</h1>";
 	
 	?>
