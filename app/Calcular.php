@@ -41,5 +41,5 @@ function Calcular ($N1, $N2, $Operador){
 	function Resultado ($Resultado) {
 		echo "El resultado de la operación es $Resultado";
 	}
-}
+	Calcular (3, 2, '+');
 ?>
